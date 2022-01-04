@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://html.sammy-codes.com/images/background.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;   
+    color: rgb(18, 18, 19);
+}
+
+h1{
+    text-align: center;
+    color: blue;
+} 
+table{
+    color: rgb(31, 31, 29);
+    border: 10cm yellow;
+    border-radius: 1cm;
+}
+.table__cells{
+    padding: 20px;
+    font-size: 20px;
+    margin: 1rem;
+    border: 100cm yellow;
+    background-color:rgb(179, 113, 240);
+}
+.table__header{
+    text-align: left;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+#index_style{
+    background-color: rgb(179, 113, 240);
+    margin-left: 9cm;
+    margin-right: 9cm; 
+    padding-top: 2cm; 
+    padding-bottom: 2cm;
+}
